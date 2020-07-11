@@ -67,7 +67,7 @@ class App extends Component {
 
   handleSaveClick = (id) => {
     const tilez = this.state.tiles;
-    const tileClicked = tilez.filter((tile) => TextTrackCueList.id === id);
+    const tileClicked = tilez.filter((tile) => tile.id === id);
 
     if (!tileClicked[0].clicked) {
       tileClicked[0].clicked = true;
