@@ -1,5 +1,6 @@
-import React, { Component } from 'react';
 import './App.css';
+import React, { Component } from 'react';
+
 
 import Card from './component/Card';
 import Footer from './component/Footer';

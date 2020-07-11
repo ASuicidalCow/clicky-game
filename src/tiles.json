@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Goku",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_thumb,w_320/v1594436959/dragon-ball-z-characters-8_kgaleq.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Vegeta",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_thumb,w_320/v1594436959/dragon-ball-z-characters-7_hdu9tr.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Piccolo",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436958/4ea9f83553e02cd07966f474ce2984aa_ucsv9w.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Gohan",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436958/dragon-ball-z-characters-2_tawjlp.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Bulma",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436959/main-qimg-620957d1ffb1672bc999d0266a8e6a30_vqruui.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Android-18",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436959/images_rhupz6.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Frieza",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436959/dragon-ball-z-characters-6_jyobck.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Majin Buu",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436958/dragon-ball-z-characters-1_hbkoya.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Kid Buu",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436958/dragon-ball-z-characters-3_lrqnoq.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Beerus",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436959/dragon-ball-z-characters-9_fktxx4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Whis",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436959/dragon-ball-z-characters-10_gyiu8g.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Panemba",
+        "image":
+            "https://res.cloudinary.com/diwo1i4i1/image/upload/c_scale,w_320/v1594436958/dragon-ball-z-characters-5_ad4uol.jpg",
+        "clicked": false
+    }
+
+]
