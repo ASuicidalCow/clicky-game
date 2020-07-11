@@ -108,7 +108,7 @@ class App extends Component {
     } else {
       this.setState({
         // eslint-disable-next-line react/no-direct-mutation-state
-        score: (this.state.score = 1),
+        score: (this.state.score + 1),
         message: 'You Guessed Correctly!',
         messageClass: 'correct'
       });
