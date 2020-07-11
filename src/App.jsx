@@ -15,7 +15,7 @@ class App extends Component {
       isGuessCorrect: true,
       tiles: tiles,
       score: 0,
-      maxScore: 15,
+      maxScore: 10,
       topScore: 0,
       message: 'Click an Image to begin.'
     };
